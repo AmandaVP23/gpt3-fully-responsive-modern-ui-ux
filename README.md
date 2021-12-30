@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+from youtube video: https://youtu.be/LMagNcngvcU?list=PLXN3aiNVeSySWSQqzEYQrZmFDjvboVJQ2
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
